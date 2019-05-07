@@ -4,4 +4,4 @@ This is a website I created to showcase my work in both Web Development and Grap
 
 I plan to continue adding to this and customizing the design during my Coding Bootcamp. 
 
-Enjoy!
+Enjoy! https://chloeekitts.github.io/Portfolio/
